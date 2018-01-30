@@ -10,6 +10,8 @@ Nativescript-Vue artwork is hosted on GitHub: [https://github.com/nativescript-v
 
 ## Available logo combinations
 
+Backgrounds are only added for visibility, and are not part of the images.
+
 | preview | url |
 |---------|-----|
 | <img src="https://art.nativescript-vue.org/NativeScript-Vue.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue.svg <br> https://art.nativescript-vue.org/NativeScript-Vue.png |
