@@ -15,11 +15,11 @@ Nativescript-Vue artwork is hosted on GitHub: [https://github.com/nativescript-v
 | <img src="https://art.nativescript-vue.org/NativeScript-Vue.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue.svg <br> https://art.nativescript-vue.org/NativeScript-Vue.png |
 | <img src="https://art.nativescript-vue.org/NativeScript-Vue-Inverted.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-Inverted.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-Inverted.png |
 | <img src="https://art.nativescript-vue.org/NativeScript-Vue-Black.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-Black.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-Black.png |
-| <img src="https://art.nativescript-vue.org/NativeScript-Vue-White.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-White.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-White.png |
-| <img src="https://art.nativescript-vue.org/NativeScript-Vue-Blue-White.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-Blue-White.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-Blue-White.png |
-| <img src="https://art.nativescript-vue.org/NativeScript-Vue-Green-White.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-Green-White.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-Green-White.png |
-| <img src="https://art.nativescript-vue.org/NativeScript-Vue-White-Blue.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-White-Blue.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-White-Blue.png |
-| <img src="https://art.nativescript-vue.org/NativeScript-Vue-White-Green.svg" width="270"> | https://art.nativescript-vue.org/NativeScript-Vue-White-Green.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png |
+| <img src="https://art.nativescript-vue.org/NativeScript-Vue-White.svg" width="270" style="background-color: #35495e;"> | https://art.nativescript-vue.org/NativeScript-Vue-White.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-White.png |
+| <img src="https://art.nativescript-vue.org/NativeScript-Vue-Blue-White.svg" width="270" style="background-color: #42b883;"> | https://art.nativescript-vue.org/NativeScript-Vue-Blue-White.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-Blue-White.png |
+| <img src="https://art.nativescript-vue.org/NativeScript-Vue-Green-White.svg" width="270" style="background-color: #35495e;"> | https://art.nativescript-vue.org/NativeScript-Vue-Green-White.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-Green-White.png |
+| <img src="https://art.nativescript-vue.org/NativeScript-Vue-White-Blue.svg" width="270" style="background-color: #42b883;"> | https://art.nativescript-vue.org/NativeScript-Vue-White-Blue.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-White-Blue.png |
+| <img src="https://art.nativescript-vue.org/NativeScript-Vue-White-Green.svg" width="270" style="background-color: #35495e;"> | https://art.nativescript-vue.org/NativeScript-Vue-White-Green.svg <br> https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png |
 
 
 
